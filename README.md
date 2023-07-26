@@ -1,1 +1,1 @@
-# JavaGamingApp
+Basic Snake game in Java
